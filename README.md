@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xavian1996
 - 👀 I’m interested in Web Dev and Python , Pen Testing
-- 🌱 I’m currently learning Python , Pen Testing
+- 🌱 I’m currently learning Python , Django
 - 💞️ I’m looking to collaborate on everything to learn more
 - 📫 How to reach me othman.elmzalni@gmail.com
 
